@@ -1,0 +1,6 @@
+Type,PersonId,Name,Age,VisitorId,MembershipType
+Visitor,V027,Lily,8,VIS027,Standard
+Visitor,V028,Lucas,7,VIS028,Standard
+Visitor,V029,Emma,9,VIS029,VIP
+Visitor,V030,Noah,6,VIS030,Standard
+Visitor,V031,Olivia,8,VIS031,VIP
